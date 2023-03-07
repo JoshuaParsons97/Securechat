@@ -1,0 +1,13 @@
+*.config
+*.vsidx
+*.lock
+*.xml
+*.dll
+*.pdb
+*.rsp
+*.exe
+*.targets
+*.txt
+obj/
+bin/
+packages/
